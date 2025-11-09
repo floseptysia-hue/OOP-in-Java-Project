@@ -80,14 +80,14 @@ Terimakasih sudah berkunjung ke Kopi Panas House. Datang lagi dilain waktu ya, s
 
 ## Key Learnings
 
-Through this project, I learned how to apply OOP in a real-world context.  
-Each class represents a clear, single responsibility — making the system **modular, reusable, and easy to maintain.**
+Through this project, I learned how to apply OOP in a real world context.  
+Each class represents a clear, single responsibility making the system **modular, reusable, and easy to maintain.**
 
 ---
 
 ## About
 
-This project is part of my Java OOP learning journey, combining real-life scenarios (like ordering coffee ☕) with programming fundamentals.  
+This project is part of my Java OOP learning journey, combining real life scenarios (like ordering coffee ☕) with programming fundamentals.  
 
 
 Let's connect and exchange ideas!   
