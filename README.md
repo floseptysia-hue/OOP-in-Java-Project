@@ -1,12 +1,11 @@
 # ☕ Kopi Panas House — Java OOP Project
-
-Hi there! 👋  
+ 
 Welcome to **Kopi Panas House**, a simple Java project built to demonstrate the four main pillars of 
 **Object-Oriented Programming (OOP)** — **Encapsulation, Inheritance, Abstraction, and Polymorphism** — through a coffee shop ordering simulation.
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 com.assignment.oop
 │
@@ -36,7 +35,7 @@ Implemented in `Customer.java`, where customer data (like name and order) are st
 
 ---
 
-## 💻 Sample Output
+## Sample Output
 
 Halo, hari yang cerah! Saya Adi, barista shift Pagi. Selamat datang di Kopi Panas Houseya, mau pesan apa hari ini?
 Barista Adi sedang menyiapkan Boba Latte, mohon ditunggu ya!
@@ -76,7 +75,7 @@ Each class represents a clear, single responsibility — making the system **mod
 This project is part of my Java OOP learning journey, combining real-life scenarios (like ordering coffee ☕) with programming fundamentals.  
 
 
-Let's connect and exchange ideas! 🚀  
+Let's connect and exchange ideas!   
 📩 **Email:** [floseptysia@gmail.com](mailto:floseptysia@gmail.com)  
 💼 **LinkedIn:** www.linkedin.com/in/florida-s-qa
 
