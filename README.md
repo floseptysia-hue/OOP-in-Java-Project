@@ -7,8 +7,6 @@ Welcome to **Kopi Panas House**, a simple Java project built to demonstrate the 
 
 ## Project Structure
 
-## 🧩 Project Structure
-
 ```
 com.assignment.oop
 │
