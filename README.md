@@ -1,7 +1,7 @@
 # ☕ Kopi Panas House — Java OOP Project
  
 Welcome to **Kopi Panas House**, a simple Java project built to demonstrate the four main pillars of 
-**Object-Oriented Programming (OOP)** — **Encapsulation, Inheritance, Abstraction, and Polymorphism** — through a coffee shop ordering simulation.
+**Object-Oriented Programming (OOP)** : **Encapsulation, Inheritance, Abstraction, and Polymorphism** through a coffee shop ordering simulation.
 
 ---
 
