@@ -7,15 +7,14 @@ Welcome to **Kopi Panas House**, a simple Java project built to demonstrate the 
 
 ## Project Structure
 
-com.assignment.oop
-│
-├── Constants.java → Store static final values (like tax rate or messages)
-├── DrinkOrder.java → Handles drink orders (extends Order)
-├── SnackOrder.java → Handles snack orders (extends Order)
-├── Customer.java → Represents customer data (Encapsulation)
-├── Person.java → Superclass for Barista & Customer (Inheritance)
-├── Order.java → Abstract class defining basic order behavior (Abstraction)
-└── Barista.java → Child class with specific implementations (Polymorphism)
+📦 com.assignment.oop
+├── 📄 Constants.java → Store static final values (like tax rate or messages)
+├── 📄 DrinkOrder.java → Handles drink orders (extends Order)
+├── 📄 SnackOrder.java → Handles snack orders (extends Order)
+├── 📄 Customer.java → Represents customer data (Encapsulation)
+├── 📄 Person.java → Superclass for Barista & Customer (Inheritance)
+├── 📄 Order.java → Abstract class defining basic order behavior (Abstraction)
+└── 📄 Barista.java → Child class with specific implementations (Polymorphism)
 
 ---
 
